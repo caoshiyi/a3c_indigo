@@ -21,6 +21,6 @@ To modify the settings of the DRL formulation, such as the state, action and rew
 ## Performance
 The A3C version of Indigo (notified as a3c in the figures) is tested on Pantheon, compared to the DAgger version of Indigo (notified as Indigo in the figures).
 
-![5 Runs](https://github.com/caoshiyi/indigo/blob/master/performance/pantheon_summary.png?raw=true)
+![5 Runs](https://github.com/caoshiyi/a3c_indigo/blob/master/performance/pantheon_summary.png?raw=true)
 
-![5 Runs Mean](https://github.com/caoshiyi/indigo/blob/master/performance/pantheon_summary_mean.png?raw=true)
+![5 Runs Mean](https://github.com/caoshiyi/a3c_indigo/blob/master/performance/pantheon_summary_mean.png?raw=true)
