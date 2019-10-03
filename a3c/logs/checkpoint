@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/caoshiyi/pantheon/third_party/indigo/a3c/logs/2018-12-24--02-52-39/model"
+all_model_checkpoint_paths: "/home/caoshiyi/pantheon/third_party/indigo/a3c/logs/2018-12-24--02-52-39/model"
